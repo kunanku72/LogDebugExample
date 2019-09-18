@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\e575c7ed6db070423edefa3e0307f753\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\f43b59b3c41a06b45d759dfdec1985ec\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\df7351628a8aa9d3a1018345a68e36db\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\615f4b810966db06d1d23584662d8011\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\c222a1c17490876f8acf63f6cb143a24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\17e869685ef10cb9f9d086c43ab93d5b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\0bb58ca4b3e3904f904500e1e9bb1de3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\c135cd283c9393bab625e18cf8e055ff\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\199833d773c7839ed58191b7bfe78c99\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\acfaa9a0f80641f98edf55bb94457011\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\c0f5751cb83a913dc072845223afbe67\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\0f01496fdde56b5af44e06e7bd5af9a9\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\22ed3174f148156b199d3b843021df44\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\317a1f4eee34c3a653d0e72244f0f9ac\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\f7b443bd0d7df21abf14ca59402cef8d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\7663c0a9c5bf9a80eb3e9f3b018ba1ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\564603573ef4dcae345ac4741ea10c8c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\4ff63c6d011889e63df6916fea7f7877\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\8dbb630a52cc252a79a7700982b66ce7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\da36eba5f4219b05981e5452b2876512\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\ae09a5b06cffabd8e801b53492ae975d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\f43b59b3c41a06b45d759dfdec1985ec\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\f43b59b3c41a06b45d759dfdec1985ec\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\0f01496fdde56b5af44e06e7bd5af9a9\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\0f01496fdde56b5af44e06e7bd5af9a9\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\317a1f4eee34c3a653d0e72244f0f9ac\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\317a1f4eee34c3a653d0e72244f0f9ac\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\0f01496fdde56b5af44e06e7bd5af9a9\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.kundan.myapplication.MainActivity
+ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\e575c7ed6db070423edefa3e0307f753\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\e575c7ed6db070423edefa3e0307f753\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\f43b59b3c41a06b45d759dfdec1985ec\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\f43b59b3c41a06b45d759dfdec1985ec\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\df7351628a8aa9d3a1018345a68e36db\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\df7351628a8aa9d3a1018345a68e36db\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\615f4b810966db06d1d23584662d8011\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\615f4b810966db06d1d23584662d8011\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\c222a1c17490876f8acf63f6cb143a24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\c222a1c17490876f8acf63f6cb143a24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\17e869685ef10cb9f9d086c43ab93d5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\17e869685ef10cb9f9d086c43ab93d5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\0bb58ca4b3e3904f904500e1e9bb1de3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\0bb58ca4b3e3904f904500e1e9bb1de3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\c135cd283c9393bab625e18cf8e055ff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\c135cd283c9393bab625e18cf8e055ff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\199833d773c7839ed58191b7bfe78c99\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\199833d773c7839ed58191b7bfe78c99\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\acfaa9a0f80641f98edf55bb94457011\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\acfaa9a0f80641f98edf55bb94457011\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\c0f5751cb83a913dc072845223afbe67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\c0f5751cb83a913dc072845223afbe67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\0f01496fdde56b5af44e06e7bd5af9a9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\0f01496fdde56b5af44e06e7bd5af9a9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\22ed3174f148156b199d3b843021df44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\22ed3174f148156b199d3b843021df44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\317a1f4eee34c3a653d0e72244f0f9ac\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\317a1f4eee34c3a653d0e72244f0f9ac\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\f7b443bd0d7df21abf14ca59402cef8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\f7b443bd0d7df21abf14ca59402cef8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\7663c0a9c5bf9a80eb3e9f3b018ba1ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\7663c0a9c5bf9a80eb3e9f3b018ba1ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\564603573ef4dcae345ac4741ea10c8c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\564603573ef4dcae345ac4741ea10c8c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\4ff63c6d011889e63df6916fea7f7877\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\4ff63c6d011889e63df6916fea7f7877\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\8dbb630a52cc252a79a7700982b66ce7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\8dbb630a52cc252a79a7700982b66ce7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\da36eba5f4219b05981e5452b2876512\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\da36eba5f4219b05981e5452b2876512\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\ae09a5b06cffabd8e801b53492ae975d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Salamudding\.gradle\caches\transforms-2\files-2.1\ae09a5b06cffabd8e801b53492ae975d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Salamudding\Desktop\roboto\Semo\MyApplication\app\src\main\AndroidManifest.xml
